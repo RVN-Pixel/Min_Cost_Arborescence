@@ -1,5 +1,6 @@
 # Min_Cost_Arborescence
-Algorithm to find minimum spanning tree in a directed graph.
+Algorithm to find minimum spanning tree in a directed graph. <br/>
+# Input Format
 First line: Number of Test Cases T and then follows their description <br/>
 For each test case, <br/>
 first row indicate N M s (single space separated) where <br/>
